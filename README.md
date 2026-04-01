@@ -59,7 +59,7 @@ I like solving problems, learning new technologies and working in teams to build
 
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Francisco_Sappia-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/fransappia01)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Francisco_Sappia-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/fransappia01](https://www.linkedin.com/in/francisco-sappia-badra-998694236/))
 [![Gmail](https://img.shields.io/badge/Gmail-fransappia01@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fransappia01@gmail.com)
 
 ---
